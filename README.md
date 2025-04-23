@@ -1,6 +1,6 @@
 ## Hi, I'm Clara!
 
-🧠 Computer science studnet at Ain Shams University</br>
+🧠 Computer science student at Ain Shams University</br>
 🌷 Skilled in Java, C++, Python, and ML.</br>
 ⭐️ Interested in Web Development, DevOps and problem-solving.</br>
 🌅 Love exploring new technologies and ideas :)</br>
